@@ -1,0 +1,5 @@
+C:\Users\Tomi\Documents\Visual Studio 2013\Projects\ismer\ismer\bin\Release\ismer.exe.config
+C:\Users\Tomi\Documents\Visual Studio 2013\Projects\ismer\ismer\bin\Release\ismer.exe
+C:\Users\Tomi\Documents\Visual Studio 2013\Projects\ismer\ismer\bin\Release\ismer.pdb
+C:\Users\Tomi\Documents\Visual Studio 2013\Projects\ismer\ismer\obj\Release\ismer.exe
+C:\Users\Tomi\Documents\Visual Studio 2013\Projects\ismer\ismer\obj\Release\ismer.pdb

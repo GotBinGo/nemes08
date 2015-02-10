@@ -1,0 +1,38 @@
+4
+tag
+60
+8
+3
+1 1 1 0 0 1 0 0
+0 1 0 1 1 1 2 2
+0 0 1 1 1 1 2 2
+ismer
+60
+7
+4
+1 1 1 1 1 1 1
+0 0 0 1 1 1 1
+1 1 1 1 1 1 1
+0 0 0 0 0 1 1
+pakol
+60
+8
+1
+2 2 2 2 3 3 3 3
+vitorlas
+60
+5
+4
+1 1 1 0 0
+1 0 1 0 0
+1 1 1 1 1
+1 1 1 1 1
+
+
+1. sor: feladatok sz ma
+egy feladat adatai:
+1. sot: FeladatN‚v
+2. sor: Id‹limit
+3. sor: Tesztesetek sz ma
+4. sor: R‚szfeladatok sz ma
+5.-annyi sor, ah ny r‚szfeladat van, soronk‚nt a pontsz m/teszteset

@@ -1,0 +1,6 @@
+C:\Users\Tomi\Documents\Visual Studio 2013\Projects\ismer\ismer\bin\Debug\ismer.exe.config
+C:\Users\Tomi\Documents\Visual Studio 2013\Projects\ismer\ismer\bin\Debug\ismer.exe
+C:\Users\Tomi\Documents\Visual Studio 2013\Projects\ismer\ismer\bin\Debug\ismer.pdb
+C:\Users\Tomi\Documents\Visual Studio 2013\Projects\ismer\ismer\obj\Debug\ismer.csprojResolveAssemblyReference.cache
+C:\Users\Tomi\Documents\Visual Studio 2013\Projects\ismer\ismer\obj\Debug\ismer.exe
+C:\Users\Tomi\Documents\Visual Studio 2013\Projects\ismer\ismer\obj\Debug\ismer.pdb

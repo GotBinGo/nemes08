@@ -1,0 +1,6 @@
+C:\Users\Tomi\Documents\Visual Studio 2013\Projects\pakol\pakol\bin\Debug\pakol.exe.config
+C:\Users\Tomi\Documents\Visual Studio 2013\Projects\pakol\pakol\bin\Debug\pakol.exe
+C:\Users\Tomi\Documents\Visual Studio 2013\Projects\pakol\pakol\bin\Debug\pakol.pdb
+C:\Users\Tomi\Documents\Visual Studio 2013\Projects\pakol\pakol\obj\Debug\pakol.csprojResolveAssemblyReference.cache
+C:\Users\Tomi\Documents\Visual Studio 2013\Projects\pakol\pakol\obj\Debug\pakol.exe
+C:\Users\Tomi\Documents\Visual Studio 2013\Projects\pakol\pakol\obj\Debug\pakol.pdb

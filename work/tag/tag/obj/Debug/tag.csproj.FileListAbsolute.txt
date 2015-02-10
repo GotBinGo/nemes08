@@ -1,0 +1,7 @@
+C:\Users\Tomi\Documents\Visual Studio 2013\Projects\tag\tag\bin\Debug\tag.exe.config
+C:\Users\Tomi\Documents\Visual Studio 2013\Projects\tag\tag\obj\Debug\tag.csprojResolveAssemblyReference.cache
+C:\Users\Tomi\Documents\Visual Studio 2013\Projects\tag\tag\bin\Debug\tag.exe
+C:\Users\Tomi\Documents\Visual Studio 2013\Projects\tag\tag\bin\Debug\tag.pdb
+C:\Users\Tomi\Documents\Visual Studio 2013\Projects\tag\tag\obj\Debug\tag.exe
+C:\Users\Tomi\Documents\Visual Studio 2013\Projects\tag\tag\obj\Debug\tag.pdb
+C:\Users\Tomi\Documents\Visual Studio 2013\Projects\tag\tag\bin\Debug\tag.be

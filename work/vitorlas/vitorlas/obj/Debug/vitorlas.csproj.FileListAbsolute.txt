@@ -1,0 +1,7 @@
+C:\Users\Tomi\Documents\Visual Studio 2013\Projects\vitorlas\vitorlas\bin\Debug\vitorlas.exe.config
+C:\Users\Tomi\Documents\Visual Studio 2013\Projects\vitorlas\vitorlas\bin\Debug\vitorlas.exe
+C:\Users\Tomi\Documents\Visual Studio 2013\Projects\vitorlas\vitorlas\bin\Debug\vitorlas.pdb
+C:\Users\Tomi\Documents\Visual Studio 2013\Projects\vitorlas\vitorlas\obj\Debug\vitorlas.csprojResolveAssemblyReference.cache
+C:\Users\Tomi\Documents\Visual Studio 2013\Projects\vitorlas\vitorlas\obj\Debug\vitorlas.exe
+C:\Users\Tomi\Documents\Visual Studio 2013\Projects\vitorlas\vitorlas\obj\Debug\vitorlas.pdb
+C:\Users\Tomi\Documents\Visual Studio 2013\Projects\vitorlas\vitorlas\bin\Debug\vitorlas.be
