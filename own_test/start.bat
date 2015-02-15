@@ -1,2 +1,4 @@
-cd bin
-start ..\NT2\t2.bat
+rmdir bin /s /q
+call compile.bat
+check.bat
+pause
